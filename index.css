@@ -1,0 +1,16 @@
+#main {
+    
+    text-align: center;
+    margin:10px;
+    padding-left :20%;
+    padding-right :20%;
+    padding-bottom :20%;
+    background-color: rgb(207, 201, 201);
+    
+}
+
+div {
+    margin-top: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
